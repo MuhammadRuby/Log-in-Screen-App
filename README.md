@@ -1,16 +1,22 @@
-# flutter_app_mobile_task
+# Codeplayon Login Screen App
 
-A new Flutter project.
+## Overview
+The Codeplayon Login Screen App is designed to provide a seamless and secure user authentication experience. With its intuitive interface, users can easily log in to access the application.
 
-## Getting Started
+## Features
+- User-friendly interface
+- 'Forgot Password' option for password recovery
+- Quick sign-in option for new users
 
-This project is a starting point for a Flutter application.
+## Installation & Usage
+Follow these steps to integrate the login screen into your application:
 
-A few resources to get you started if this is your first Flutter project:
+1. Clone this repository.
+2. Navigate to the project folder and install dependencies (if any).
+3. Import the login screen component into your application.
+4. Customize styles and themes as needed.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Support & Contribution
+Feel free to contribute, raise issues, or suggest enhancements to improve the login screen app.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+We are dedicated to providing a bug-free and user-friendly experience. For support or inquiries, reach out to us at support@codeplayon.com.
